@@ -15,7 +15,7 @@ CLOUD_NAME = #cloud name of cloudnary
 API_KEY = #api key of cloudnary
 API_SECRET = #api secret of cloudnary
 ```
-Then go to [http://localhost:5000](http://localhost:5000/api/upload)].
+Then go to [http://localhost:5000](http://localhost:5000/api/upload).
 
 Or go to
-[http://localhost:5000](http://localhost:5000/api/upload)]
+[http://localhost:5000](http://localhost:5000/api/insert)
