@@ -4,7 +4,6 @@ require('dotenv').config()
 
 const app = express();
 const PORT = 5000;
-app.use(express.urlencoded({ extended: true }))
 
 //the route 
 const router = require("./routes/api")
